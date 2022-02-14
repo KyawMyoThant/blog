@@ -30,7 +30,7 @@ twitter_username: Boggercell
 github_username:  KyawMyoThant
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
